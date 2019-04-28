@@ -6,4 +6,5 @@
 03_BuildingEscape/BuildingEscape2/Saved/
 03_BuildingEscape/BuildingEscape2/Content/
 03_BuildingEscape/BuildingEscape2/Binaries/
-*.db
+*.VC.db*
+*.opendb
