@@ -2,9 +2,8 @@
 */Build
 */Binaries
 */DerivedDataCache
-*/StarterContent
 03_BuildingEscape/BuildingEscape2/Saved/
-03_BuildingEscape/BuildingEscape2/Content/
+03_BuildingEscape/BuildingEscape2/Content/StarterContent
 03_BuildingEscape/BuildingEscape2/Binaries/
 *.VC.db*
 *.opendb
